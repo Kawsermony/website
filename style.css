@@ -1,0 +1,89 @@
+.icon .col-sm-3:hover{
+                                             background-color: crimson;
+}
+                                             
+.team img  {
+                                             margin-top: -50px;
+}
+.team img:hover{
+                                             border-radius: 10px;
+                                             transition: all 2s linear;
+}
+.mm:hover{
+                                             border-radius: 10px;
+                                             transition: all 1s linear;
+                                             color: coral;
+}
+
+
+.bappy{
+                                             border-radius: 50%;
+}
+.form{
+                                             height: 600px;
+                                             background-image: url(./6.jpg);
+                                             background-repeat: no-repeat;
+                                             background-size: cover;
+}
+.form .div{
+                                             height: 500px;
+                                             width: 700px;
+                                             border-radius: 0 80px;
+                                             box-shadow: 0 0 20px 10px black;
+                                             margin-left: auto;
+                                             margin-right: auto;
+                                             margin-top: auto;
+                                             margin-bottom: auto;
+}
+.form .div:hover{
+                                             transform: scale(1.1);
+}
+.form .div:hover img{
+                                             transform: scaleX(2);
+                                             transition: all 1s linear;
+                                           
+}
+.form .div img{
+                                             margin-left: auto;
+                                             margin-right: auto;
+}                                             
+.form .div img:hover{
+                                             transform: rotate(1.5);
+                                             transition: all 1s linear;}
+                                             
+.form form{
+                                             margin-top: 150px;}
+                                        
+.form form input{
+                                             margin-bottom: 50px;
+                                             width: 80%;
+                                             background: transparent;
+                                             border: none;
+                                             border-bottom: 2px solid black;
+                                             font-size: 20px;
+}
+.form form button:hover{
+                                             color: white;
+                                             background-color: tomato;
+}
+.form form button{
+                                             background-color: transparent;
+                                             color: white;
+                                             border: 2px solid white;
+                                             padding: 8px 20px;
+                                             border-radius:  5px;
+}
+.mk{
+                                             border-radius: 50%;
+                                             border-color: tomato;
+}
+.nu{
+                                             border: 2px solid black;
+
+                                          
+}
+.incon{
+                                           
+                                             border: 2px solid black;
+                                             border-bottom: none;
+}
